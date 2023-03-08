@@ -1,0 +1,7 @@
+hello
+nokia
+apple
+lg
+google
+samsung
+hell
